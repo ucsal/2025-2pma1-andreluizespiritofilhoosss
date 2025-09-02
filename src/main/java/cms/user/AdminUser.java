@@ -29,6 +29,5 @@ public class AdminUser {
 		return password.equals(p);
 	}
 
-	public void deleteContent(int contentId) {
-		/* exclusivo do admin */ }
+
 }
